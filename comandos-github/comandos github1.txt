@@ -1,0 +1,13 @@
+@echo off
+cd /d A:\MarcosPaulo\Java\Eclipse
+git init
+git add .
+git commit -m "aula04 17/03/23"
+git config --global user.email "marcospborborema@hotmail.com"
+git commit -m "aula04 17/03/23"
+git remote add https://github.com/M4rc0sPaulo/MeuEclipseJava
+git push
+
+
+echo Comando de Git executado com sucesso!!!!!
+
