@@ -1,0 +1,55 @@
+lista = ['enzinho', 'cu', 12, 'penis]
+
+lista.append("novo")
+/*vai adicionar isso no ultimo indice*/
+
+lista.insert(2, "lol")
+/*vai adicionar no indice escolhido (no caso "2")*/
+
+lista.pop(1)
+/*vai apagar o indice escolhido*/
+
+lista.remove('cu')
+/*isso vai remover o conteudo escolhido*/
+
+lista.index('enzinho')
+/*isso vai mostrar o indice aonde esse conteudo se encontra*/
+
+ex: indice = lista.index('enzinho'
+resposta: 0
+
+lista.count('enzinho')
+/*isso vai contar quantos do conteudo escolhido existe no vetor*/
+
+ex: lista = ['enzinho', 'enzinho', 12, 'penis]
+
+qtd = lista.count('enzinho')
+
+resposta: 2
+
+len(lista)
+/*mostra o tamanho do vetor*/
+
+sum(lista)
+/*vai somar todos os conteudos dos indices (nao soma texto, obvio) */
+
+lista1.extend(lista2)
+/*irá adicionar a lista2 na lista1, partindo do ultimo indice (voce tbm pode adicionar a lista nela mesma)*/
+
+lista2 = lista1.copy()
+/*vai copiar a lista1 na lista2 😱 (mas no fim voce pode fazer lista2 = lista1 que funcionar tbm🤷‍♂️ (bom, na real que nao, tem um porém, pode acontecer dos blablabla, fiquei com preguiça, me pergunta depois))*/
+
+lista.sort()
+/*vai arrumar em ordem crescente, ou seja, era só ter feito isso naquele exercicio hahaha🐶*/
+
+lista.sort(reverse=True)
+/*vai arrumar em ordem decrescente HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAAHAHAHAHAHAHAHAHAHAHAHA*/
+
+lista.reverse
+/*vai inverter os elementos (o ultimo vai ser o primeiro e vice e versa)*/
+
+lista.clear
+/*vai apagar todos os elementos*/
+
+del(lista)
+/*vai apagar a variavel inteira*/

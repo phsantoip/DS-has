@@ -1,0 +1,26 @@
+EXERCÍCIO: [UTILIZAR OS RECURSOS ENSINADOS EM AULA]
+
+PARTE I:
+Um usuário necessita se cadastrar para entrar em um sistema.
+Para tal ele deve digitar um e-mail e uma senha.
+
+Pedir a digitação do e-mail.
+Requisito:
+- a string ter ao menos um arroba e um ponto xx
+	- ao menos uma letra antes do arroba xx
+	- ao menos uma letra entre o arroba e ponto. xx
+	- ao menos uma letra depois do ponto xx
+	- no máximo dois pontos depois do arroba xx
+
+PARTE II:
+Pedir a digitação da senha.
+Requisitos:
+- Ao menos 6 caracteres xx
+- Ao menos uma letra maiúscula xx
+- Ao menos um número xx
+- Ao menos um caractere especial xx
+
+Depois da digitação, caso não atenda aos requisitos, exibir uma mensagem dizendo o que está faltando.
+
+Caso a senha seja validada, pedir a redigitação da senha para conferir.
+[neste momento não se preocupe em aparecer a senha e não o *]

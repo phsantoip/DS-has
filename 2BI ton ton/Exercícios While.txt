@@ -1,0 +1,13 @@
+Exercício1: Elaborar um programa que efetue a leitura de valores positivos inteiros até que um valor negativo seja informado.
+
+Exercício 2: Elaborar um programa que possibilite calcular a área total de uma residência. O programa deverá solicitar a entrada do nome, largura e comprimento de um determinado cômodo. Em seguida, deverá apresentar a área de um cômodo lido e uma mensagem solicitando a confirmação para continuar calculando outros cômodos. Caso o usuário responda não, o programa deverá apresentar o valor acumulado da área residencial.
+
+Exercício 3:	Durante 30 dias do mês de outubro foram tomadas as temperaturas médias diárias de SP. Determinar o número de dias desse mês com temperaturas acima de 10º C.
+
+Exercício 4: Faça um programa par exibir qual é o maior e o menor de 30 números digitados pelo usuário.
+
+Exercício 5: Faça um programa para somar quantos números o usuário deseja.
+
+Exercício 6: Para N alunos de uma determinada classe são dadas as 3 notas das provas. Calcular a média aritmética das provas de cada aluno, a média da classe, o número de aprovados e o número de reprovados (média >= 5).
+
+Exercício 7: Fazer a conversão de um número decimal para binário.

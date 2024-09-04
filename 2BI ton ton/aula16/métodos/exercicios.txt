@@ -1,0 +1,4 @@
+Dado um texto pelo usuário, faça as seguintes rotinas:
+1. conte quantas palavras existem
+2. retorne o mesmo texto só com uma (especificado por parametro) em maiúsculo
+3. Dado um numero, exiba a palavra correspondente.

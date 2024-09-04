@@ -1,0 +1,16 @@
+EXERCÍCIOS:
+1. Fazer um procedimento que preencha uma lista até que seja digitado . (ponto). 
+    Obs1: o ponto não deve ser inserido na lista.
+    Obs2: os elementos podem ter mais de um caractere cada
+2. Fazer um procedimento que jogue numa segunda lista os elementos numericos
+   convertidos para numero.
+    Obs: Neste caso fazer o casting
+3. Fazer um procedumento que jogue numa terceira lista os elementos não numéricos.
+4. Fazer uma função que retorne quantos elementos numericos exitem na lista original.
+5. Fazer uma função que retorne quantos elementos NÃO numericos exitem na lista original.
+*** DESAFIO
+6. Fazer uma função que conte quantos elementos numericos existem na lista.
+    Obs: Incluindo os dados do tipo float
+
+CRIAR UM MENU PARA EXECUTAR CADA UMA DESTAS OPERAÇÕES
+'''

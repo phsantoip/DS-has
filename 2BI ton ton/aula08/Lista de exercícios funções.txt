@@ -1,0 +1,24 @@
+Exercicios:
+1. Dado um valor e a porcentagem por parâmetros, faça uma função chamada porcentual que efetue e cálculo.
+	x = porcentual(1000, 20)
+	>>> x valerá 200
+
+2. Dado um valor e a porcentagem por parâmetros e o tipo ['a' para acrescimo, 'd' para desconto e 'p' para corcentagem], faça uma função chamada porcentagem que efetue e cálculo.
+	x = porcentagem(1000, 20, 'd')
+	>>> x valerá 800
+
+3. Dado um valor float por parâmetro, verificar se ele representa uma nota retornando True ou False. O nome da função é eh_nota.
+	if eh_nota(6):
+	    print("é nota")
+    	else:
+	    print("não é nota")
+	>>> é nota
+4. Dados 3 valores por parâmetro, retornar o menor valor. O nome da função deverá ser menor_3n.
+	x = menor_3n(6,97,22)
+	>>> x valerá 6
+
+Depois de contruídas as funções:
+a. Colocá-las em um arquivo externo.
+b. Em um programa principal importar este arquivo
+c. O programa principal deverá ter um menu com a execução destas funções, permitindo que o usuário possa repetir o programa.
+	

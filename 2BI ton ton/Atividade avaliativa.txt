@@ -1,0 +1,14 @@
+1. Fazer um procedimento que pegue os numeros do intervalo e exiba os multiplos do numero informado. O valor inicial e final não deve ser exibido
+caso seja multiplo:
+PROTÓTIPO:
+intervalo(VALOR_INICIAL, VALOR_FINAL, MULTIPLO)
+Exemplo:
+intervalo(6, 20, 3)
+>> 9 12 15 18
+
+2. Fazer uma função que retorne o valor de delta a partir de 3 valores passados por parâmetro.
+PROTÓTIPO:
+delta(VALOR_A, VALOR_B, VALOR_C)
+Exemplo:
+print(delta(1, 2, 3))
+>> -8

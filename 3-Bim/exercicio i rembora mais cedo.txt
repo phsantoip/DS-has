@@ -1,0 +1,5 @@
+Exercício:
+- Criar um dicionário contato com os campos nome e idade.
+- Criar uma tabela cujo dicionário é o conteúdo e alimentá-lo com o que foi digitado no dicionário.
+- No total digite 2 registros.
+- Digitar um nome, efetuar a busca, se existir permitir editar, se não existir, cadastrar.
